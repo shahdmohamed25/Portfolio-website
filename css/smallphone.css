@@ -1,0 +1,181 @@
+@media screen and (min-width: 320px) and (max-width:479.9px){
+    
+.logo{
+    font-size: 17px;
+    width: 3px;
+    margin-left: -15px;
+    margin-top: -50px;
+}
+
+nav ul li{
+     padding:10px;
+}
+nav ul{width: 41%;
+    height: 10px;
+margin-right: -250px;
+margin-left: 70px;
+margin-bottom: -100px;
+}
+
+.btn{width: 20%;
+    font-size:10px;
+margin-left: 5px;
+margin-top: 1000px;
+    padding: 10px;
+}
+.content h5{
+    margin-bottom: -490px;
+}.content h4{
+    font-size: 30px;
+    margin-top: 500px;
+}.content{
+    margin-top: 50px;
+    margin-right:-8px;
+}
+.about img{
+    margin-left: -7px;
+    margin-top: -320px;
+    width: 50%;
+    height: 60%;
+    }
+    .about-text h2{
+        margin-left:-100px;
+        font-size: 30px;
+        margin-top: -90px;
+        }
+        .about-text h5{
+            margin-left:20px;
+            font-size: 19px;
+            margin-top: 140px;
+            width:40px;
+            letter-spacing: 2px;
+        }
+    .about-text p{
+       padding: 10px 0px;
+        margin-left:-130px;
+        font-size: 12px;
+        width: 270px;
+        height: 260px;
+        text-align: justify;
+        margin-top: 40px;
+        margin-bottom: -10px;
+        line-height: 15px;
+    }
+    .box{
+        display: inline;
+        margin: 2px;
+    }.card{
+        width: 190px;
+        margin: 10px;
+        margin-left: 30px;
+      padding: 10px;
+        
+    }.skills .more p{
+        font-size: 13.4px;
+        text-align: center;
+        margin-top: 0.2vw;
+    }
+
+.projects h2{
+    font-size: 16vw;
+}.projects p{
+    font-size: 13.4px;
+    width: 60vw;
+    line-height: 6.4vw;
+    margin-top: -1.9vw;
+}.projs p{
+    font-size: 12px;
+    width: 59vw;
+    line-height: 6.4vw;
+    margin-top: -1.9vw;
+}
+.contact p{
+    font-size: 14px;
+}
+.A input{
+    display: flex; 
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 1vw;
+    width: 60vw;
+    height: 4vw;
+    font-size: 13px;
+}.B input{
+    display: flex; 
+    margin-left: 20px;
+    margin-bottom: 2dvh;
+    padding: 1vw;
+    width: 60vw;
+    height: 4vw;
+    font-size: 13px;
+}textarea{
+    margin-left: 20px;
+    width: 270px;
+    margin-bottom: -10px;
+    font-size: 13px;
+}.send{
+    padding: 8px;
+    font-size: 12px;
+    margin-left: 45%;
+}
+footer p:nth-child(2){
+    width: 300px;
+    }
+
+}
+@media screen and (min-width: 340px) and (max-width:479.9px){
+    .card{
+        width: 60vw;
+        margin: 10px;
+        margin-left: 50px;
+        padding: 10px;
+        
+    }.skills .more p{
+        font-size: 13.4px;
+        text-align: center;
+    }
+}
+@media screen and (min-width: 446px) and (max-width:479.9px){
+    nav ul{width: 30%;
+        height: 10px;
+    margin-right: -330px;
+    margin-left: 150px;
+    margin-bottom: -100px;
+    }
+    
+    .about img{
+        margin-left: -7px;
+        margin-top: -390px;
+        width: 50%;
+        height: 60%;
+        }
+        .about-text p{
+            padding: 10px 0px;
+             margin-left:-200px;
+             font-size: 12px;
+             width: 390px;
+             height: 260px;
+             text-align: justify;
+             margin-top: 200px;
+             margin-bottom: -10px;
+             line-height: 18px;
+         }}
+         @media screen and (min-width: 363px) and (max-width:446.9px){
+            .about img{
+                margin-left: -7px;
+                margin-top: -270px;
+                width: 50%;
+                height: 50%;
+                }
+                .about-text p{
+                    padding: 0px 0px;
+                     margin-left:-160px;
+                     font-size: 12px;
+                     width: 330px;
+                     height: 220px;
+                     text-align: justify;
+                     margin-top: 120px;
+                     margin-bottom: -10px;
+                     line-height: 15px;
+                 }
+         }      

@@ -1,0 +1,21 @@
+@media screen and (min-width:1199.2px) and (max-width:1285.6px){
+   nav ul li{
+        width: 8%;
+        margin-right: -20px;
+         padding: 29px;
+        
+   }
+   nav ul{
+    margin-right: 90px;
+   } .card{
+    width: 300px;
+        height: 350px;
+        padding: 3px 3px ;
+        margin: 5px;
+    }  .more{
+        font-size: 13px;
+        text-align: center; 
+    }   .send{
+        margin-left: 45%;
+    } 
+} 

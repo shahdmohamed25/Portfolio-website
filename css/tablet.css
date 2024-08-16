@@ -1,0 +1,165 @@
+/* large tablets*/
+@media screen and (min-width: 991px) and (max-width:1199px) {
+ nav ul li {
+    padding: 10px;
+ } 
+     .logo{
+        font-size: 30px;
+        width: 45%;
+        margin-left: -45px;
+    }
+    /*    
+}*/
+.about-text{
+    padding: 70px 0px;
+    margin-right: -18px;
+    font-size: 10px;
+    
+}
+.about img{
+margin-left: -15px;
+}
+.card{
+width: 300px;
+    height: 350px;
+    padding: 10px 10px ;
+    margin: 5px;
+}
+h5{
+    font-size: 15px;
+}
+.more{
+    font-size: 13px;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 900px;
+   /*  font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 27px;
+    margin-top: 2px;
+    text-align: justify;*/
+}
+.button{
+ padding: 6px 15px;   
+}
+.more-projs.card{
+    width: 300px;
+    height: 300px;
+}
+.send{
+    margin-left: 40%;
+}
+.A input{
+    margin: 20px ;
+    padding: 1vw;
+    width: 39vw;margin-left: 40px;
+    height: 4vw;  font-size: 18px;
+}
+.B input{
+    margin: 20px ;
+    padding: 1vw;
+    width: 39vw;margin-left: 40px;
+    height: 4vw;  font-size: 18px;
+}textarea{
+    margin-left: 50px;
+    width: 85vw;
+}
+
+ 
+}
+/* smaller tablets*/
+@media screen and (min-width: 768px) and (max-width:991px) {
+  
+ 
+nav ul li{
+        width: 8%;
+        margin-right: -20px;
+         padding: 29px;
+        
+   }
+   nav ul{
+    margin-right: 90px;
+   }
+   .logo{
+    font-size: 23px;
+    width: 45%;
+    margin-left: -45px;
+}
+
+.btn{ 
+    width: 35%;
+    margin-right: -60px;
+}
+.content h4{
+    font-size: 60px;
+}
+.content h5{
+    font-size: 18px;
+}
+.about-text p{
+    padding: 10px 0px;
+    margin-left:20px;
+    margin-right:70px;
+    font-size: 15px;
+    width: 400px;
+    height: 60%;
+    text-align: justify;
+    margin-top: -29px;
+}
+.about-text h5{
+width: 100%;
+padding: 10px 0px;
+margin-left:20px;
+margin-right: 18px;
+font-size: 15px;
+}
+.about-text h2{
+    margin-left:20px;
+margin-right: -18px;
+font-size: 40px;
+}
+.about img{
+    margin-left: -3px;
+    height: 550px;
+    width: 280px;
+    margin-top: -40px;
+    }
+    
+    .card{
+        width: 300px;
+            height: 350px;
+            padding: 3px 3px ;
+            margin: 5px;
+        }
+      
+        h5{
+            font-size: 9px;
+        }
+        .more{
+            font-size: 11px;
+            text-align: center;
+            margin-top: -15px;
+           
+        }
+       
+        .send{
+            margin-left: 40%;
+        } 
+        .A input{
+            margin: 10px ;
+            padding: 1vw;
+            width: 39vw;margin-left: 40px;
+            height: 4vw;  font-size: 18px;
+        }
+        .B input{
+            margin: 10px ;
+            padding: 1vw;
+            width: 39vw;margin-left: 40px;
+            height: 4vw;  font-size: 18px;
+        }textarea{
+            margin-left: 50px;
+            width: 85vw;
+        } 
+
+}
+
